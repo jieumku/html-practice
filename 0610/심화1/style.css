@@ -19,3 +19,19 @@ li {
   font-weight: 700;
   font-size: 1.8rem;
 }
+ul.menu-bar li:hover {
+  background-color: red;
+}
+.naver {
+  font-size: 1.8rem;
+  text-decoration: none;
+  background-color: lightpink;
+  color: white;
+  margin: 0 0 0 200px;
+  display: block;
+  padding: 20px 50px;
+  width: 100px;
+}
+.naver:hover {
+  background: red;
+}
