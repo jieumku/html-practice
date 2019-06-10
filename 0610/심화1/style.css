@@ -1,0 +1,21 @@
+html {
+  font-size: 10px;
+}
+
+div {
+  margin: 5px;
+}
+ul.menu-bar {
+  background-color: lightpink;
+  color: white;
+  font-size: 0px;
+  line-height: 60px;
+  text-align: left;
+}
+
+li {
+  display: inline-block;
+  padding-left: 30px;
+  font-weight: 700;
+  font-size: 1.8rem;
+}
